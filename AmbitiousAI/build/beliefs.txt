@@ -1,0 +1,3 @@
+smelly: is stuff, is good, 
+good: is smelly, is stuff, 
+stuff: is smelly, is good, 

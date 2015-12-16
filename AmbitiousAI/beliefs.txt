@@ -1,0 +1,4 @@
+gross: is smell, is smell, 
+puppy: is good, 
+smell: is gross, is gross, 
+good: is puppy, 
